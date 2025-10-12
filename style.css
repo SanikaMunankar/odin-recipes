@@ -1,0 +1,13 @@
+body {
+    width: auto;
+    margin: 8 auto;
+}
+
+.header {
+    background-color: rgb(176, 240, 98);
+    margin: 0;
+    border: 1px solid #3d1fe4;
+    padding: 8px;
+    text-align: center;
+    color: rgb(57, 87, 235);
+}
