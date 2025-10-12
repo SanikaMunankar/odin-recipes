@@ -14,21 +14,49 @@ body {
     color: rgb(57, 87, 235);
 }
 
-.intro {
+p {
     margin: 8px auto;
     padding: 8px;
     text-align: center;
     font-size: 18px;
 }
 
-.list {
-    margin: 8px auto;
-    padding: 8px;
-    margin-left: 70px;
-    font-size: 16px;
-}
-
 li {
     margin: 4px auto;
     padding: 1px;
+}
+
+.title {
+    margin: 0;
+    padding: 8px;
+    text-align: center;
+    color: rgb(93, 37, 236)
+}
+
+img {
+    margin: 0 auto;
+    padding: 8px;
+    display: block;
+    height:300px; 
+    width: 800;
+}
+
+h3 {
+    margin: 0;
+    padding: 8px;
+    color: rgb(93, 37, 236)
+}
+
+ul, ol {
+    margin: 8px auto;
+    padding: 8px;
+    margin-left: 30px;
+    font-size: 16px;
+}
+
+a {
+    padding: 8px;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
 }
