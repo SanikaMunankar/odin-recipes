@@ -1,6 +1,8 @@
 body {
     width: auto;
     margin: 8 auto;
+    background-color: rgb(193, 222, 248);
+    font-family: Verdana, Tahoma, sans-serif;
 }
 
 .header {
@@ -10,4 +12,23 @@ body {
     padding: 8px;
     text-align: center;
     color: rgb(57, 87, 235);
+}
+
+.intro {
+    margin: 8px auto;
+    padding: 8px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.list {
+    margin: 8px auto;
+    padding: 8px;
+    margin-left: 70px;
+    font-size: 16px;
+}
+
+li {
+    margin: 4px auto;
+    padding: 1px;
 }
